@@ -1,0 +1,4 @@
+.openmat-day-name:after, .openmat-event-name:after, .openmat-day:after {
+    content:"\A";
+    white-space: pre;
+}
